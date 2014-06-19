@@ -1,13 +1,11 @@
-== Joshua Cough
-Tenor
+# Joshua Cough
+__Tenor__
 joshcough@gmail.com
-
-==============
 
 Experience
 ==========
 
-*MIT Musical Theater Guild*  
+__MIT Musical Theater Guild__  
 Young Frankenstein - Fall 2013  
 Dr. Frederick Frankenstein  
 
