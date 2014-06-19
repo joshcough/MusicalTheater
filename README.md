@@ -3,7 +3,7 @@ __Tenor__
 joshcough@gmail.com
 
 ### Experience
-*****
+-----
 __MIT Musical Theater Guild__  
 Young Frankenstein - Fall 2013  
 Dr. Frederick Frankenstein  
