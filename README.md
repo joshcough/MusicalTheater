@@ -1,6 +1,7 @@
-Joshua Cough
+== Joshua Cough
 Tenor
 joshcough@gmail.com
+
 ==============
 
 Experience
